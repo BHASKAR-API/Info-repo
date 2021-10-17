@@ -11,6 +11,10 @@ public class UserController {
 	@GetMapping("/get")
 	public String heartBeat() {
 		return "Application Started Successfully remotely updated.............";
+		
+		
+		//Task done
+		
 	}
 
 	//commit-1
